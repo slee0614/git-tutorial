@@ -5,3 +5,4 @@ This is first change.
     - feature-A
     - fix-B
     - feature-C
+	- feature-D
